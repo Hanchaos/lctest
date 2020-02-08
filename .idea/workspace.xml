@@ -2,83 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33545160-1a4e-4b1a-aafa-b6854dd97d39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/lc110_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/lc121_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/lc136_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/RB_Node.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/RB_Tree.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/func.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hard/lc5_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/lc10_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/lc22_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/lc2_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/lc3x_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/lc4x_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/lc5x_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/lc7xx_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lc07_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/easy/lc07_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lc09_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lc100_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/easy/lc100_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lc101_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lc104_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lc13_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/easy/lc13_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lc14_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lc20_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/easy/lc20_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lc21_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lc26_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lc27_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lc28_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lc35_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/easy/lc35_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lc38_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lc53_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/easy/lc53_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lc58_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lc66_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/easy/lc66_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lc67_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/lc136_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/easy/lc136_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/Nlc22_test.go" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/lc121_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
-              <folding>
-                <element signature="e#14#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/lc136_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" selection-start-line="14" selection-end-line="23" selection-end-column="14" />
-              <folding>
-                <element signature="e#14#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/easy/lc110_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="108" column="15" lean-forward="true" selection-start-line="108" selection-start-column="15" selection-end-line="108" selection-end-column="15" />
-              <folding>
-                <element signature="e#14#43#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/lc100_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="790">
-              <caret line="150" column="1" selection-start-line="150" selection-start-column="1" selection-end-line="150" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,161 +29,56 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>append</find>
-      <find>var</find>
-      <find>new</find>
-    </findStrings>
-    <dirStrings>
-      <dir>D:\GoCode\src\lctest\easy</dir>
-    </dirStrings>
-  </component>
-  <component name="GOROOT" path="D:\Go" />
+  <component name="GOROOT" path="F:\Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/easy/lc88_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc136_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc09_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc07_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc14_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc13_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc21_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc26_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc27_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc28_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc20_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc38_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc35_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc58_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc53_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc67_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc66_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc101_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc104_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc107_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc108_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc100_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc111_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc112_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc118_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc125_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc121_test.go" />
-        <option value="$PROJECT_DIR$/easy/lc110_test.go" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1909" />
-    <option name="y" value="231" />
-    <option name="width" value="1288" />
-    <option name="height" value="686" />
-  </component>
+  <component name="ProjectId" id="1WvTYBGTmswvwdImFLmbWZ7BhZm" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="lctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lctest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lctest" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="lctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Go SDK 1.11.4" type="20ee2d1f:SyntheticLibraryElementNode" />
-            </path>
-            <path>
-              <item name="lctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Go SDK 1.11.4" type="20ee2d1f:SyntheticLibraryElementNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Go SDK 1.11.4" type="20ee2d1f:SyntheticLibraryElementNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fmt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lctest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Go SDK 1.11.4" type="20ee2d1f:SyntheticLibraryElementNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="strings" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Go Test.Test136 in lctest/easy">
-    <configuration name="Test108 in lctest/easy" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.Test406 in lctest/medium">
+    <configuration name="Test406 in lctest/medium" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="lctest" />
-      <working_directory value="$PROJECT_DIR$/easy" />
+      <working_directory value="$PROJECT_DIR$/medium" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="lctest/easy" />
+      <package value="lctest/medium" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^Test108$" />
+      <pattern value="^Test406$" />
       <method v="2" />
     </configuration>
-    <configuration name="Test118 in lctest/easy" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="Test494 in lctest/medium" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="lctest" />
-      <working_directory value="$PROJECT_DIR$/easy" />
+      <working_directory value="$PROJECT_DIR$/medium" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="lctest/easy" />
+      <package value="lctest/medium" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^Test118$" />
+      <pattern value="^Test494$" />
       <method v="2" />
     </configuration>
-    <configuration name="Test121 in lctest/easy" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="Test560 in lctest/easy" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="lctest" />
       <working_directory value="$PROJECT_DIR$/easy" />
       <framework value="gotest" />
@@ -249,10 +86,10 @@
       <package value="lctest/easy" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^Test121$" />
+      <pattern value="^Test560$" />
       <method v="2" />
     </configuration>
-    <configuration name="Test125 in lctest/easy" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="Test581 in lctest/easy" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="lctest" />
       <working_directory value="$PROJECT_DIR$/easy" />
       <framework value="gotest" />
@@ -260,89 +97,101 @@
       <package value="lctest/easy" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^Test125$" />
+      <pattern value="^Test581$" />
       <method v="2" />
     </configuration>
-    <configuration name="Test136 in lctest/easy" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="Test739 in lctest/medium" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="lctest" />
-      <working_directory value="$PROJECT_DIR$/easy" />
+      <working_directory value="$PROJECT_DIR$/medium" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="lctest/easy" />
+      <package value="lctest/medium" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^Test136$" />
+      <pattern value="^Test739$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.Test136 in lctest/easy" />
-        <item itemvalue="Go Test.Test125 in lctest/easy" />
-        <item itemvalue="Go Test.Test121 in lctest/easy" />
-        <item itemvalue="Go Test.Test118 in lctest/easy" />
-        <item itemvalue="Go Test.Test108 in lctest/easy" />
+        <item itemvalue="Go Test.Test406 in lctest/medium" />
+        <item itemvalue="Go Test.Test494 in lctest/medium" />
+        <item itemvalue="Go Test.Test560 in lctest/easy" />
+        <item itemvalue="Go Test.Test581 in lctest/easy" />
+        <item itemvalue="Go Test.Test739 in lctest/medium" />
       </list>
     </recent_temporary>
   </component>
-  <component name="TestHistory">
-    <history-entry file="Test121_in_lctest_easy - 2019.10.21 at 17h 10m 10s.xml">
-      <configuration name="Test121 in lctest/easy" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="Test121_in_lctest_easy - 2019.10.21 at 17h 17m 12s.xml">
-      <configuration name="Test121 in lctest/easy" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="Test121_in_lctest_easy - 2019.10.21 at 17h 17m 40s.xml">
-      <configuration name="Test121 in lctest/easy" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="Test121_in_lctest_easy - 2019.10.21 at 17h 20m 00s.xml">
-      <configuration name="Test121 in lctest/easy" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="Test125_in_lctest_easy - 2019.10.22 at 10h 22m 11s.xml">
-      <configuration name="Test125 in lctest/easy" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="Test125_in_lctest_easy - 2019.10.22 at 10h 23m 34s.xml">
-      <configuration name="Test125 in lctest/easy" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="Test125_in_lctest_easy - 2019.10.22 at 10h 25m 57s.xml">
-      <configuration name="Test125 in lctest/easy" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="Test125_in_lctest_easy - 2019.10.22 at 10h 37m 58s.xml">
-      <configuration name="Test125 in lctest/easy" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="Test136_in_lctest_easy - 2019.10.22 at 10h 54m 28s.xml">
-      <configuration name="Test136 in lctest/easy" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="Test136_in_lctest_easy - 2019.10.22 at 10h 54m 58s.xml">
-      <configuration name="Test136 in lctest/easy" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09168444" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22317597" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.45107794" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32892805" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#GOROOT" timestamp="1580029191322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#GOROOT/0.0.1920.1040@0.0.1920.1040" timestamp="1580029191322" />
+    <state x="668" y="131" key="#Test100_in_lctest/easy" timestamp="1580029242538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="131" key="#Test100_in_lctest/easy/0.0.1920.1040@0.0.1920.1040" timestamp="1580029242538" />
+    <state x="993" y="341" key="FileChooserDialogImpl" timestamp="1580362507873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="993" y="341" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580362507873" />
+    <state width="1271" height="346" key="GridCell.Tab.0.bottom" timestamp="1581081271523">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1271" height="346" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581081271523" />
+    <state width="1271" height="346" key="GridCell.Tab.0.center" timestamp="1581081271523">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1271" height="346" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581081271523" />
+    <state width="1271" height="346" key="GridCell.Tab.0.left" timestamp="1581081271523">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1271" height="346" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581081271523" />
+    <state width="1271" height="346" key="GridCell.Tab.0.right" timestamp="1581081271523">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1271" height="346" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581081271523" />
+    <state width="1271" height="370" key="GridCell.Tab.1.bottom" timestamp="1580994261322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1271" height="370" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580994261322" />
+    <state width="1271" height="370" key="GridCell.Tab.1.center" timestamp="1580994261322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1271" height="370" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580994261322" />
+    <state width="1271" height="370" key="GridCell.Tab.1.left" timestamp="1580994261321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1271" height="370" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580994261321" />
+    <state width="1271" height="370" key="GridCell.Tab.1.right" timestamp="1580994261322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1271" height="370" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580994261322" />
+    <state x="20" y="136" key="SettingsEditor" timestamp="1580029375009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="20" y="136" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580029375009" />
+    <state x="596" y="94" width="647" height="801" key="find.popup" timestamp="1580976671007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="596" y="94" width="647" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580976671007" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -352,237 +201,27 @@
           <line>7</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/easy/lc20_test.go</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/medium/lc10_test.go</url>
+          <line>83</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/medium/lc5x_test.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/medium/lc7xx_test.go</url>
+          <line>101</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/easy/lc88_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#14#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Go/src/strings/strings.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="661">
-          <caret line="586" column="5" selection-start-line="586" selection-start-column="5" selection-end-line="586" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Go/src/fmt/print.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="262" column="5" selection-start-line="262" selection-start-column="5" selection-end-line="262" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc09_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc13_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1818">
-          <caret line="104" column="1" selection-start-line="104" selection-start-column="1" selection-end-line="104" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc14_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc26_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc27_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc28_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc20_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="187" column="17" selection-start-line="187" selection-start-column="17" selection-end-line="187" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc21_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc38_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc53_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc58_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc66_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="895">
-          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc67_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc35_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc07_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc136_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" selection-start-line="14" selection-end-line="23" selection-end-column="14" />
-          <folding>
-            <element signature="e#14#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc104_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc107_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc108_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc101_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc100_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="790">
-          <caret line="150" column="1" selection-start-line="150" selection-start-column="1" selection-end-line="150" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc111_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc112_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc118_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#14#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc125_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#14#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc121_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
-          <folding>
-            <element signature="e#14#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lc110_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="108" column="15" lean-forward="true" selection-start-line="108" selection-start-column="15" selection-end-line="108" selection-end-column="15" />
-          <folding>
-            <element signature="e#14#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
