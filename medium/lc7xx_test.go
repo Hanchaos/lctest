@@ -124,13 +124,3 @@ func reconstructQueue(people [][]int) [][]int {
 	return res
 }
 
-func rob(root *TreeNode) int {
-	return Max(fuck337(root))
-}
-func fuck337(p1 *TreeNode)  int{
-	if p1==nil{
-		return 0
-	}
-
-	return Max(sum+p1.Val,sum+fuck337(p1.Left,sum)+fuck337(p1.Right,sum))
-}

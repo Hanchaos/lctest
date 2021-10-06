@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33545160-1a4e-4b1a-aafa-b6854dd97d39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/common/RB_Node.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/RB_Tree.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/func.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hard/lc5_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/lc10_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/lc22_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/lc2_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/lc3x_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/lc4x_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/lc5x_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/lc7xx_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/lc2xx_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/lcjz_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lc136_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/easy/lc136_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/medium/Nlc22_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/lc7xx_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/medium/lc7xx_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,10 +44,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="go.sdk" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Go Test.Test406 in lctest/medium">
-    <configuration name="Test406 in lctest/medium" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build lctest">
+    <configuration name="go build lctest" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="lctest" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="lctest" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test000 in lctest/medium (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="lctest" />
       <working_directory value="$PROJECT_DIR$/medium" />
       <framework value="gotest" />
@@ -64,10 +64,10 @@
       <package value="lctest/medium" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^Test406$" />
+      <pattern value="^Test000$" />
       <method v="2" />
     </configuration>
-    <configuration name="Test494 in lctest/medium" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="Test000 in lctest/medium" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="lctest" />
       <working_directory value="$PROJECT_DIR$/medium" />
       <framework value="gotest" />
@@ -75,32 +75,10 @@
       <package value="lctest/medium" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^Test494$" />
+      <pattern value="^Test000$" />
       <method v="2" />
     </configuration>
-    <configuration name="Test560 in lctest/easy" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="lctest" />
-      <working_directory value="$PROJECT_DIR$/easy" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="lctest/easy" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^Test560$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Test581 in lctest/easy" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="lctest" />
-      <working_directory value="$PROJECT_DIR$/easy" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="lctest/easy" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^Test581$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Test739 in lctest/medium" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="Test215 in lctest/medium" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="lctest" />
       <working_directory value="$PROJECT_DIR$/medium" />
       <framework value="gotest" />
@@ -108,16 +86,27 @@
       <package value="lctest/medium" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^Test739$" />
+      <pattern value="^Test215$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestJS in lctest/medium" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="lctest" />
+      <working_directory value="$PROJECT_DIR$/medium" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="lctest/medium" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestJS$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.Test406 in lctest/medium" />
-        <item itemvalue="Go Test.Test494 in lctest/medium" />
-        <item itemvalue="Go Test.Test560 in lctest/easy" />
-        <item itemvalue="Go Test.Test581 in lctest/easy" />
-        <item itemvalue="Go Test.Test739 in lctest/medium" />
+        <item itemvalue="Go Build.go build lctest" />
+        <item itemvalue="Go Test.Test000 in lctest/medium (1)" />
+        <item itemvalue="Go Test.Test000 in lctest/medium" />
+        <item itemvalue="Go Test.TestJS in lctest/medium" />
+        <item itemvalue="Go Test.Test215 in lctest/medium" />
       </list>
     </recent_temporary>
   </component>
@@ -140,58 +129,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="179" key="#GOROOT" timestamp="1580029191322">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1633508560134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="179" key="#GOROOT/0.0.1920.1040@0.0.1920.1040" timestamp="1580029191322" />
-    <state x="668" y="131" key="#Test100_in_lctest/easy" timestamp="1580029242538">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="668" y="131" key="#Test100_in_lctest/easy/0.0.1920.1040@0.0.1920.1040" timestamp="1580029242538" />
-    <state x="993" y="341" key="FileChooserDialogImpl" timestamp="1580362507873">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="993" y="341" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580362507873" />
-    <state width="1271" height="346" key="GridCell.Tab.0.bottom" timestamp="1581081271523">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1271" height="346" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581081271523" />
-    <state width="1271" height="346" key="GridCell.Tab.0.center" timestamp="1581081271523">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1271" height="346" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581081271523" />
-    <state width="1271" height="346" key="GridCell.Tab.0.left" timestamp="1581081271523">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1271" height="346" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581081271523" />
-    <state width="1271" height="346" key="GridCell.Tab.0.right" timestamp="1581081271523">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1271" height="346" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581081271523" />
-    <state width="1271" height="370" key="GridCell.Tab.1.bottom" timestamp="1580994261322">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1271" height="370" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580994261322" />
-    <state width="1271" height="370" key="GridCell.Tab.1.center" timestamp="1580994261322">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1271" height="370" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580994261322" />
-    <state width="1271" height="370" key="GridCell.Tab.1.left" timestamp="1580994261321">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1271" height="370" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580994261321" />
-    <state width="1271" height="370" key="GridCell.Tab.1.right" timestamp="1580994261322">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1271" height="370" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580994261322" />
-    <state x="20" y="136" key="SettingsEditor" timestamp="1580029375009">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="20" y="136" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580029375009" />
-    <state x="596" y="94" width="647" height="801" key="find.popup" timestamp="1580976671007">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="596" y="94" width="647" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580976671007" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1633508560134" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -220,6 +161,11 @@
           <url>file://$PROJECT_DIR$/medium/lc7xx_test.go</url>
           <line>101</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/medium/lc2xx_test.go</url>
+          <line>143</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
